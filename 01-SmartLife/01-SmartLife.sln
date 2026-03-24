@@ -1,8 +1,10 @@
-Microsoft Visual Studio Solution File, Format Version 12.00
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartLife.Clases", "SmartLife.Clases\SmartLife.Clases.csproj", "{58BDC89B-AA07-E9BD-A75E-C27B6E1DEB15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartLife.Tests", "SmartLife.Tests\SmartLife.Tests.csproj", "{97F7C538-7A1A-4559-B36B-22219F1A1020}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,6 +16,10 @@ Global
 		{58BDC89B-AA07-E9BD-A75E-C27B6E1DEB15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58BDC89B-AA07-E9BD-A75E-C27B6E1DEB15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58BDC89B-AA07-E9BD-A75E-C27B6E1DEB15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97F7C538-7A1A-4559-B36B-22219F1A1020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97F7C538-7A1A-4559-B36B-22219F1A1020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97F7C538-7A1A-4559-B36B-22219F1A1020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97F7C538-7A1A-4559-B36B-22219F1A1020}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
